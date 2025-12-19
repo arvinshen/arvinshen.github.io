@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "ABOUT"
+title: "About"
 ---
 
 Hi, I'm Arvin.

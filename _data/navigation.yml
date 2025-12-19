@@ -1,7 +1,7 @@
 main:
-#  - title: "Blog"
-#    url: /blog/posts
-  - title: "About"
+  - title: "POSTS"
+    url: /blog/posts
+  - title: "ABOUT"
     url: /about/
-  - title: "My Apps"
+  - title: "APPS"
     url: /apps/
