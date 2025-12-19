@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "ABOUT"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I'm Arvin.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am an iOS Developer with a passion for creating beautiful, intuitive mobile applications. I began my development journey in January 2022, diving into Swift and UIKit, and within three months, I launched my first application, Pull Up Bball. This momentum propelled me into a full-time iOS Developer internship, where I spent over two years contributing to production-level projects while earning my Computer Science degree. After my internship, I've remained committed to advancing my technical expertise through independent development. I recently shipped [AniDex]() and am actively building [Arca Vault](https://arcavault.co), a project I'm documenting from conception to launch. I invite you to follow along as I share insights, challenges, and breakthroughs throughout the development process.

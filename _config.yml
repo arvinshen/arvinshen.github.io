@@ -85,7 +85,7 @@ footer:
       url: "https://www.linkedin.com/in/arvin-shen/"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://mastodon.com/"
+      url: "https://mastodon.social/@arvinshen"
 
 defaults:
   # _posts
