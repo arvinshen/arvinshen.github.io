@@ -1,7 +1,7 @@
 main:
-  - title: "POSTS"
-    url: /blog/posts
   - title: "ABOUT"
     url: /about/
+  - title: "POSTS"
+    url: /blog/posts
   - title: "APPS"
     url: /apps/
